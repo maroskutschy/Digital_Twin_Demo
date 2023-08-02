@@ -14,7 +14,7 @@
 propagate_eyes_test_results: true
 
 # Add the following line in the 'applitools.yaml' file:
-api_key: FLevskE9FI8LqvzfgaBdgYJqUb3nYrJc3GCo4fclDCk110
+api_key: YOUR_APPLITOOLS_API_KEY
 
 # A batch is the collection of visual checkpoints for a test suite.
 # Batches are displayed in the Eyes Test Manager, so use meaningful names.
