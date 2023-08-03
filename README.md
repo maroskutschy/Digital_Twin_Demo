@@ -4,7 +4,6 @@
 * Playwright (Browser) Library: https://robotframework-browser.org/#introduction
 * Sikuli Library: https://github.com/rainmanwy/robotframework-SikuliLibrary
 * Applitools Eyes Library: 
-  <br/><br/>
   https://applitools.com/tutorials/quickstart/web/robot-framework 
   https://applitools.com/docs/api/robot/robot-eyes-library.html
 
@@ -56,7 +55,8 @@ gitcl
 ```
 select the Git: Clone command, then select Clone from GitHub and press Enter.
 * When prompted for the Repository URL, select clone from GitHub, then press Enter
-*Enter
+* If you are asked to sign into GitHub, complete the sign-in process
+* Enter
 ```
 https://github.com/maroskutschy/Digital_Twin_Demo.git
 ```
